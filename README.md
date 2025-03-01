@@ -1,74 +1,24 @@
-@@ -1,55 +1,27 @@
-# 👋 Hi, I'm Devendar - A Passionate CSE Student
 # 💫 About Me:
-👋 Hi, I'm Devendar - A Passionate CSE Student<br>Welcome to my GitHub! I'm a 3rd-year Computer Science Engineering (CSE) student with a keen interest in web development, data structures, and algorithms. I'm currently learning and building projects with the following technologies:<br><br><br><br>📚 My Learning Journey<br>I'm always trying to expand my knowledge in various domains of Computer Science. Here are a few things I’m currently working on:<br><br>Data Structures & Algorithms: I’m solving algorithmic challenges on platforms like LeetCode, HackerRank, and Codeforces.<br>Web Development: Continuing to enhance my backend development skills.<br>🌱 Currently Learning<br>React.js and Node.js for Full Stack Development<br>Deep dive into Data Structures & Algorithms to improve competitive programming skills
-
-Welcome to my GitHub! I'm a **3rd-year Computer Science Engineering (CSE) student** with a keen interest in **web development**, **data structures**, and **algorithms**. I'm currently learning and building projects with the following technologies:
-
----
-
-## 💻 Skills & Technologies
-
-### Programming Languages:
-- **JavaScript** (ES6+), **Java**, **C++**
-- **SQL**, **MongoDB** (NoSQL)
-
-### Web Development:
-- **Frontend**: HTML, CSS, **Tailwind CSS**, **JavaScript**,**React**
-- **Backend**: **Express.js**, **Node.js**
-- **Databases**: **SQL**, **MongoDB**
-
-### Algorithms & Data Structures:
-- **Sorting Algorithms**: QuickSort, MergeSort, etc.
-- **Searching Algorithms**: Binary Search, Linear Search
-- **Data Structures**: Arrays, Linked Lists, Stacks, Queues, Trees, Graphs, Heaps, Hashmaps
-- Problem-solving using **Recursion**, **Dynamic Programming**, and **Greedy Algorithms**
-
-### Tools:
-- Git, GitHub, Visual Studio Code
-- Postman (for API testing)
+Passionate Software Developer with strong problem-solving skills and expertise in Data Structures & Algorithms (DSA) and MERN stack development. Experienced in designing and optimizing scalable web applications using MongoDB, Express.js, React.js, and Node.js.<br><br>Proficient in competitive programming with hands-on experience solving LeetCode and Codeforces challenges. Strong foundation in system design, DevOps fundamentals, and cloud technologies like Docker, Kubernetes, and AWS.<br><br>Recognized for effective communication and teamwork, with a proven ability to explain complex technical concepts clearly. Actively contribute to open-source projects and tech discussions, demonstrating leadership and a passion for continuous learning.<br><br>💡 Looking for opportunities in software development, SDE roles, or DevOps to leverage my skills in building high-performance applications.
 
 
-## 📚 My Learning Journey
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/devendar-singh-rawat-9b1084165/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:devendasinghrawat925@gmail.com) 
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/deepesh.mishra3/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/deepesh-mishra-720882257/) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/https://in.pinterest.com/deepeshmisjuly3/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:deepeshmisjuly3@gmail.com) 
 
-I'm always trying to expand my knowledge in various domains of **Computer Science**. Here are a few things I’m currently working on:
-- **Data Structures & Algorithms**: I’m solving algorithmic challenges on platforms like **LeetCode**, **HackerRank**, and **Codeforces**.
-- **Web Development**: Continuing to enhance my backend development skills.
 # 💻 Tech Stack:
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=devendar007&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=devendar007&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=devendar007&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=devendar007&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+![](https://github-readme-stats.vercel.app/api?username=deepesh-mishra3&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=deepesh-mishra3&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=deepesh-mishra3&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
----
-
-## 🌱 Currently Learning
-- **React.js** and **Node.js** for Full Stack Development
-- Deep dive into **Data Structures & Algorithms** to improve competitive programming skills
-
 ### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=devendar007&limit=5&theme=dark&combine_all_yearly_contributions=true)
+![](https://github-contributor-stats.vercel.app/api?username=deepesh-mishra3&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=devendar007&icon=0&color=0)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=deepesh-mishra3&icon=0&color=0)](https://visitcount.itsvg.in)
 
-## 📫 How to Reach Me
-
-- LinkedIn: https://www.linkedin.com/in/devendar-singh-rawat-9b1084165/
-- Email: devendasinghrawat925@gmail.com
-
-
-## 💬 Let's Connect!
-Feel free to reach out to me for collaboration, coding challenges, or just to chat about **technology**. I'm always open to learning and growing in the world of **CS**!
-
----
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
